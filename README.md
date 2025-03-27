@@ -6,13 +6,13 @@ A Support Vector Machine (SVM) model applied to the Iris dataset is implemented 
 
 Installation specifications:
 The following requirements must be installed in order for you to use this notebook:
-Python(>=3.7)
-Jupyter Nootbook
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
+Python(>=3.7),
+Jupyter Nootbook,
+NumPy,
+Pandas,
+Scikit-learn,
+Matplotlib,
+Seaborn.
 
 Installing the necessary libraries can be done with:
 pip install numpy pandas scikit-learn matplotlib seaborn
